@@ -1,2 +1,4 @@
 # valdosz.github.io
-Website
+
+Welcome, this my github portopolio
+Mobile Developer Enthusiast
